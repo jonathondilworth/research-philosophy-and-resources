@@ -29,6 +29,12 @@ How to get through your PhD without going insane (James Hayton):
 
 * [https://youtu.be/4MkRMp3roKQ?si=U81uNZ1_MA4DvZlj](https://youtu.be/4MkRMp3roKQ?si=U81uNZ1_MA4DvZlj)
 
+How to improve your academic writing (James Hayton):
+
+* [https://www.youtube.com/live/WMxqo1rlZMk?si=ul72enljlXK2O1jm](https://www.youtube.com/live/WMxqo1rlZMk?si=ul72enljlXK2O1jm)
+
+How to Manage Your Time as a PhD Student
+
 The Myth of the Genius Programmer, Excert on ‘The Publish or Perish Philosophy’ (Brian Fitzpatrick, Ben Collins-Sussman, Google IO):
 
 * [https://youtu.be/0SARbwvhupQ?si=_ybzGodacWZAelI5&t=544](https://youtu.be/0SARbwvhupQ?si=_ybzGodacWZAelI5&t=544)
