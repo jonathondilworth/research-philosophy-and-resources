@@ -13,13 +13,15 @@ How to give a Great Research Talk (Simon Peyton Jones, University of Cambridge, 
 
 * [https://simon.peytonjones.org/great-research-talk/](https://simon.peytonjones.org/great-research-talk/)
 
-How to read a research paper (Simon Peyton Jones, ACM SIGPLAN):
+'How to read a research paper' (Simon Peyton Jones, ACM SIGPLAN):
 
 * [https://youtu.be/e1vmUI59yHY?si=cWX_vMzH6E1rAvmy](https://youtu.be/e1vmUI59yHY?si=cWX_vMzH6E1rAvmy)
 
 ‘How to Speak’ & Building Memorable Research Work (Patrick Winston, IAP 2018):
 
 * [https://youtu.be/Unzc731iCUY?si=59SyL1rZTlom3DTK&t=3007](https://youtu.be/Unzc731iCUY?si=59SyL1rZTlom3DTK&t=3007)
+
+'How to Write Papers so People can Read Them' (Derek Dreyer, ACM SIGPLAN)
 
 TRRT Theory Research Relevance Tree (Dr Richard Neville, University of Manchester):
 
