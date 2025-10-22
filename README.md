@@ -23,6 +23,8 @@ How to give a Great Research Talk (Simon Peyton Jones, University of Cambridge, 
 
 'How to Write Papers so People can Read Them' (Derek Dreyer, ACM SIGPLAN)
 
+* [https://youtu.be/XpgJ31GKPWI?si=bOilFFz1WwAa0YRJ](https://youtu.be/XpgJ31GKPWI?si=bOilFFz1WwAa0YRJ)
+
 TRRT Theory Research Relevance Tree (Dr Richard Neville, University of Manchester):
 
 * [https://youtu.be/7XpZhSMI4x0?si=BRtHqkwyaLcf87jS](https://youtu.be/7XpZhSMI4x0?si=BRtHqkwyaLcf87jS)
