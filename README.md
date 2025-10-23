@@ -41,11 +41,13 @@ How to improve your academic writing (James Hayton):
 
 * [https://www.youtube.com/live/WMxqo1rlZMk?si=ul72enljlXK2O1jm](https://www.youtube.com/live/WMxqo1rlZMk?si=ul72enljlXK2O1jm)
 
-How to Manage Your Time as a PhD Student
-
 The Myth of the Genius Programmer, Excert on ‘The Publish or Perish Philosophy’ (Brian Fitzpatrick, Ben Collins-Sussman, Google IO):
 
 * [https://youtu.be/0SARbwvhupQ?si=_ybzGodacWZAelI5&t=544](https://youtu.be/0SARbwvhupQ?si=_ybzGodacWZAelI5&t=544)
+
+Managing your Research (Amal Ahmed, ACM SIGPLAN):
+
+* [https://youtu.be/gfFFBdbcLr4?si=BGh49QegFUpDNjYE](https://youtu.be/gfFFBdbcLr4?si=BGh49QegFUpDNjYE)
 
 
 ## Functional Programming
