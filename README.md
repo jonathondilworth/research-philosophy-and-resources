@@ -49,6 +49,10 @@ Managing your Research (Amal Ahmed, ACM SIGPLAN):
 
 * [https://youtu.be/gfFFBdbcLr4?si=BGh49QegFUpDNjYE](https://youtu.be/gfFFBdbcLr4?si=BGh49QegFUpDNjYE)
 
+PhD: Dreams, Reality and Consequences (Andrew Akbashev, CIFAR Quantum Materials School in Andermatt, Switzerland, 2025):
+
+* [https://youtu.be/9T9Lid-oQ9s?si=zjx67WOqbbMso3SB](https://youtu.be/9T9Lid-oQ9s?si=zjx67WOqbbMso3SB)
+
 
 ## Functional Programming
 
